@@ -4,6 +4,6 @@ This calibration object was made to fulfill the need to manually calibrate a Da 
 
 ## Usage
 
-Fiddle around with the settings, let me know through [Twitter](http://twitter.com/ben785314280) or [GitHub](http://github.com/ben-z/) if you have any questions.
+Customizable with [Makerbot Customizer](http://www.thingiverse.com/apps/customizer/run?thing_id=693083) and [OpenSCAD](http://www.openscad.org/). Instructions are available on [Thingiverse](http://www.thingiverse.com/thing:693083).
 
-Note: `.stl` files are also available on [Thingiverse](http://www.thingiverse.com/thing:693083)
+Fiddle around with the settings, let me know through [Twitter](http://twitter.com/ben785314280), [GitHub](http://github.com/ben-z/), or [Thingiverse](http://www.thingiverse.com/benz) if you have any questions.
